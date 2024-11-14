@@ -1,6 +1,6 @@
 # Awesome-Vector-Quantized-GNN
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/LirongWu/awesome-protein-representation-learning?color=yellow)  ![Forks](https://img.shields.io/github/forks/LirongWu/awesome-protein-representation-learning?color=blue&label=Fork)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/jingbo02/Awesome-Vector-Quantized-GNN?color=yellow)  ![Forks](https://img.shields.io/github/forks/jingbo02/Awesome-Vector-Quantized-GNN?color=blue&label=Fork)
 
 Paper collection about Vector Quantized Graph Neural Networks
 
